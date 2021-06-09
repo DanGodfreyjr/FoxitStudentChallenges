@@ -1,1 +1,1 @@
-![Challenge Page](/ChallengePage.jpeg)
+![Challenge Page](/images/ChallengePage.jpeg)
