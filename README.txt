@@ -1,1 +1,1 @@
-![Challenge Page](users/Daniel Godfrey/Pictures/ChallengePage)
+![Challenge Page](ChallengePage)
