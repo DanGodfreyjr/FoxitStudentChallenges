@@ -1,1 +1,1 @@
-![Challenge Page](/images/ChallengePage.jpeg)
+![Alt Text](/images/ChallengePage.jpeg)
