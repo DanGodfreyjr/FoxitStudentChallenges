@@ -11,4 +11,4 @@ Gain software developement experience by utilizing Foxit's powerful SDK API and 
 
 Check out the current list of available projects. Follow the instructions from the projects Github to get started.
 
-*[PDF Translator](https://github.com/huytran888/PDFTranslator)
+* [PDF Translator](https://github.com/huytran888/PDFTranslator)
