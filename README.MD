@@ -9,3 +9,6 @@ Engineers from our education team will work with you to complete your project, p
 
 Gain software developement experience by utilizing Foxit's powerful SDK API and third party libraries and APIs to create useful and powerful tools. Student Challenge Projects cover a variety of software topics from text analysis and machine learning, to security and data protection. 
 
+Check out the current list of available projects. Follow the instructions from the projects Github to get started.
+
+*[PDF Translator](https://github.com/huytran888/PDFTranslator)
