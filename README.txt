@@ -1,1 +1,1 @@
-![Challenge Page](ChallengePage)
+![Challenge Page](/ChallengePage)
