@@ -1,7 +1,7 @@
 ![Alt Text](/images/ChallengePage.jpg)
 
 
-Foxit Software is looking for talented Student Coders to complete challenge projects to help sharpen there skills and gain experience working with a major technology company. Work with our Education team to create to design and develope plug in programs for Foxit Ediotr 11. Completed projects will be released as an optional plug in to millions of Foxit users world wide. 
+Foxit Software is looking for talented Student Coders to complete challenge projects to help sharpen there skills and gain experience working with a major technology company. Work with our Education team to create to design and develope plug in programs for Foxit Editor 11. Completed projects will be released as an optional plug in to millions of Foxit users world wide. 
 
 Work on the project on your time schedule, at your pace. The projects are designed to be an average of 25 hours worth of work. Talented or experienced programmers may be able to complete them much quicker. Either way, you get a $1000 gift card.
 
