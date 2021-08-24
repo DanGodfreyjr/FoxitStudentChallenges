@@ -1,3 +1,3 @@
-###Check out Challenge Projects Completed by Students Like You!
+### Check out Challenge Projects Completed by Students Like You!
 
 
