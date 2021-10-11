@@ -20,6 +20,15 @@ Title: Computer Sciense Ph.D Candidate at George Mason University
 
 GitHub: https://github.com/pressureless/Ribbon_Plugin.git
 
+## Foxit Flashcard
+
+Description: Allow users to create questions with answers pulled directly from text and then quiz themselves on the questions.
+
+Student: Jane Ran
+
+Title Computer Science Bachelor's UC Irvine
+
+Github: https://github.com/DanGodfreyjr/FoxitFlashcards
 
 
 
